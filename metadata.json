@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Chasknap Hub",
+  "description": "Super App Chasknap Hub for customized designs, sports teams apparel management, graduation planning, and custom 3D catalogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
